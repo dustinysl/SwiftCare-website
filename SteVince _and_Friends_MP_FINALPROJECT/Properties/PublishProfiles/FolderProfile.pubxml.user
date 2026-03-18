@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\dusti\Documents\source code\SwiftCare\SteVince _and_Friends_MP_FINALPROJECT\SteVince _and_Friends_MP_FINALPROJECT\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2026-03-18T12:14:16.2272655Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin Dashboard.aspx">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="App Data/Be A Caregiver.png">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="App Data/ChildCare.png">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="App Data/ElderlyCare.png">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="App Data/Find A Caregiver.png">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="App Data/Help.jpg">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="App Data/HouseSitting.png">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="App Data/No_Bg_Logo.png">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="App Data/PetCare.png">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="App Data/SpecialNeeds.png">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>03/17/2026 21:57:51</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="bin/SteVince _and_Friends_MP_FINALPROJECT.dll">
+      <publishTime>03/18/2026 20:14:15</publishTime>
+    </File>
+    <File Include="bin/SteVince _and_Friends_MP_FINALPROJECT.pdb">
+      <publishTime>03/18/2026 20:14:15</publishTime>
+    </File>
+    <File Include="Bookings.aspx">
+      <publishTime>03/17/2026 23:49:26</publishTime>
+    </File>
+    <File Include="Caregiver Dashboard.aspx">
+      <publishTime>03/18/2026 00:01:05</publishTime>
+    </File>
+    <File Include="Homepage.aspx">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>03/17/2026 21:57:52</publishTime>
+    </File>
+    <File Include="SignUp.aspx">
+      <publishTime>03/17/2026 22:22:47</publishTime>
+    </File>
+    <File Include="User Dashboard.aspx">
+      <publishTime>03/17/2026 22:30:44</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/18/2026 20:14:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
